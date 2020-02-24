@@ -22,6 +22,7 @@ def makeB(iv, c1):
             return
     return c1
 
+
 def calculatec2(iv, c1, c2, b):
     # print(c1)
     # print(CBC.check(iv, c1 + c2))
@@ -38,7 +39,7 @@ def calculatec2(iv, c1, c2, b):
                 # print(CBC.check(iv, c1_change + c2))
                 m2 = (j ^ (16 - i) ^ c1[i]).to_bytes(length=1, byteorder='big', signed=False) + m2
                 c1 = c1_change
-            pass
+                pass
     return m2
 
 
@@ -63,7 +64,7 @@ def calculatec1(iv, c1):
 def paddingOracle(iv, C):
     c1 = C[:16]
     c2 = C[-16:]
-    m2 = c2
+    m2 = bytes()
     b = findB(iv, c1, c2)
     # print("b = {0}".format(b))
     if b != 16:
@@ -74,9 +75,9 @@ def paddingOracle(iv, C):
 
 
 if __name__ == '__main__':
-    iv = b'1234567887654321' #随意输入长度为16个字符
-    M = 'test for padding-oracle' # 明文长度为要求[16, 32)，长度可变版本有时间改
-    if len(M) < 16 or len(M) >=32:
+    iv = b'1234567887654321' #任意长度为16的字符串
+    M = 'test for padding-oracle' # 长度必须属于[16,32), 可变长度版本有时间更新
+    if len(M) < 16 or len(M) >= 32:
         print("M error")
     else:
         C = CBC.encrypt(iv, M)
