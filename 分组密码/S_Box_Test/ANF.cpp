@@ -93,7 +93,7 @@ void calculateANF(int ans[][IN_DIMENSION + S_BOX_OUT_DIMENSION], const int *sBox
         printMat(ans);
     }
 
-    for(int i = 7; i >= 0; i--){
+    for(int i = IN_DIMENSION - 1; i >= 0; i--){
         for(int j = i - 1; j >= 0; j--){
             if(ans[j][i] == 1){
                 for(int k = i; k < IN_DIMENSION + S_BOX_OUT_DIMENSION; k++)
