@@ -1,5 +1,9 @@
 from Crypto.Cipher import AES
 from binascii import a2b_hex, b2a_hex
+import time
+
+runTime = 0
+
 
 def add_to_16_by_number(text):
     add = 16 - (len(text.encode('utf-8')) % 16)

@@ -21,7 +21,13 @@
   <component name="ProjectId" id="1Xsw7M6pgM5jQSAkrSjUCRtDjeS" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,7 +108,9 @@
       <updated>1581847941440</updated>
       <workItem from="1581847942561" duration="27076000" />
       <workItem from="1582466036780" duration="53000" />
-      <workItem from="1582517308682" duration="257000" />
+      <workItem from="1582517308682" duration="857000" />
+      <workItem from="1582635024996" duration="163000" />
+      <workItem from="1583063362380" duration="8963000" />
     </task>
     <servers />
   </component>
@@ -111,6 +119,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/padding_oracle$CBC.coverage" NAME="main Coverage Results" MODIFIED="1581929433863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/padding_oracle$main.coverage" NAME="main Coverage Results" MODIFIED="1582517553876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/padding_oracle$main.coverage" NAME="main Coverage Results" MODIFIED="1583071846258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
