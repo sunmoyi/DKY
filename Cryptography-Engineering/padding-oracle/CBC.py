@@ -12,16 +12,6 @@ def add_to_16_by_number(text):
     return text
 
 
-# 如果text不足16位的倍数就用空格补足为16位
-def add_to_16(text):
-    if len(text.encode('utf-8')) % 16:
-        add = 16 - (len(text.encode('utf-8')) % 16)
-    else:
-        add = 0
-    text = text + ('\0' * add)
-    return text.encode('utf-8')
-
-
 # 加密函数
 def encrypt(iv, text):
     key = '9999999999999999'.encode('utf-8')
