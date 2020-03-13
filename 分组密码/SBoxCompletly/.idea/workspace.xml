@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SBoxCompletly" targetName="SBoxCompletly" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06eed7c3-775b-426d-a7ee-015731228941" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YpvUDzckryB5i6kFcerkr6t5o8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\C++ project\SBoxCompletly" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SBoxCompletly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SBoxCompletly" TARGET_NAME="SBoxCompletly" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SBoxCompletly" RUN_TARGET_NAME="SBoxCompletly">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06eed7c3-775b-426d-a7ee-015731228941" name="Default Changelist" comment="" />
+      <created>1583652363935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583652363935</updated>
+      <workItem from="1583652365461" duration="2140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1520" height="269" key="GridCell.Tab.0.bottom" timestamp="1583755134855">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.bottom/0.0.1563.1002@0.0.1563.1002" timestamp="1583755134855" />
+    <state width="1520" height="269" key="GridCell.Tab.0.center" timestamp="1583755134855">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.center/0.0.1563.1002@0.0.1563.1002" timestamp="1583755134855" />
+    <state width="1520" height="269" key="GridCell.Tab.0.left" timestamp="1583755134855">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.left/0.0.1563.1002@0.0.1563.1002" timestamp="1583755134855" />
+    <state width="1520" height="269" key="GridCell.Tab.0.right" timestamp="1583755134855">
+      <screen x="0" y="0" width="1563" height="1002" />
+    </state>
+    <state width="1520" height="269" key="GridCell.Tab.0.right/0.0.1563.1002@0.0.1563.1002" timestamp="1583755134855" />
+  </component>
+</project>

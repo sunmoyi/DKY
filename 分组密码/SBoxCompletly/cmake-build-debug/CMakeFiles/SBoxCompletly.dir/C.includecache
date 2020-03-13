@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C++ project/SBoxCompletly/basic_info.c
+header.h
+E:/C++ project/SBoxCompletly/header.h
+
+E:/C++ project/SBoxCompletly/boolean_only.c
+header.h
+E:/C++ project/SBoxCompletly/header.h
+
+E:/C++ project/SBoxCompletly/header.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+stdarg.h
+-
+
+E:/C++ project/SBoxCompletly/helper_functions.c
+header.h
+E:/C++ project/SBoxCompletly/header.h
+
+E:/C++ project/SBoxCompletly/main.c
+header.h
+E:/C++ project/SBoxCompletly/header.h
+
+E:/C++ project/SBoxCompletly/properties.c
+header.h
+E:/C++ project/SBoxCompletly/header.h
+
+E:/C++ project/SBoxCompletly/representations.c
+header.h
+E:/C++ project/SBoxCompletly/header.h
+

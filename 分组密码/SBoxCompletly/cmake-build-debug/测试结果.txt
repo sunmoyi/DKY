@@ -1,0 +1,119 @@
+AES:
+Calculations took 1387.00 miliseconds to run
+Name of the file: AES.txt
+Input size M is 8
+Output size N is 8
+S-box is balanced.
+Nonlinearity is 112.
+Corelation immunity is 0.
+Absolute indicator is 32.
+Sum of square indicator is 133120.
+Algebraic degree is 7.
+Algebraic Term is 110.
+Algebraic immunity is 4.
+Transparency order is 7.860.
+Propagation characteristic is 0.
+Strict Avalanche Criterion is not satisfied.
+Number of fixed points is 0.
+Number of opposite fixed points is 0.
+Composite algebraic immunity is 4.
+Robustness to differential cryptanalysis is 0.984.
+Delta uniformity is 4.
+SNR (DPA) (F) is 9.600.
+Confusion coefficient variance is 0.111304.
+
+AES_INV:
+Calculations took 1294.50 miliseconds to run
+Name of the file: AES_INV.txt
+Input size M is 8
+Output size N is 8
+S-box is balanced.
+Nonlinearity is 112.
+Corelation immunity is 0.
+Absolute indicator is 32.
+Sum of square indicator is 133120.
+Algebraic degree is 7.
+Algebraic Term is 102.
+Algebraic immunity is 4.
+Transparency order is 7.851.
+Propagation characteristic is 0.
+Strict Avalanche Criterion is not satisfied.
+Number of fixed points is 0.
+Number of opposite fixed points is 0.
+Composite algebraic immunity is 4.
+Robustness to differential cryptanalysis is 0.984.
+Delta uniformity is 4.
+SNR (DPA) (F) is 10.583.
+Confusion coefficient variance is 0.080422.
+
+CRYPTO_0_5:
+Calculations took 1247.92 miliseconds to run
+Name of the file: crypto05.txt
+Input size M is 8
+Output size N is 8
+S-box is balanced.
+Nonlinearity is 88.
+Corelation immunity is 0.
+Absolute indicator is 144.
+Sum of square indicator is 590848.
+Algebraic degree is 6.
+Algebraic Term is 54.
+Algebraic immunity is 4.
+Transparency order is 7.742.
+Propagation characteristic is 0.
+Strict Avalanche Criterion is not satisfied.
+Number of fixed points is 1.
+Number of opposite fixed points is 1.
+Composite algebraic immunity is 4.
+Robustness to differential cryptanalysis is 0.938.
+Delta uniformity is 16.
+SNR (DPA) (F) is 9.179.
+Confusion coefficient variance is 0.127665.
+
+CRYPTO_1_0:
+Calculations took 1427.74 miliseconds to run
+Name of the file: crypto10.txt
+Input size M is 8
+Output size N is 8
+S-box is balanced.
+Nonlinearity is 96.
+Corelation immunity is 0.
+Absolute indicator is 96.
+Sum of square indicator is 280192.
+Algebraic degree is 6.
+Algebraic Term is 96.
+Algebraic immunity is 4.
+Transparency order is 7.765.
+Propagation characteristic is 0.
+Strict Avalanche Criterion is not satisfied.
+Number of fixed points is 1.
+Number of opposite fixed points is 0.
+Composite algebraic immunity is 4.
+Robustness to differential cryptanalysis is 0.961.
+Delta uniformity is 10.
+SNR (DPA) (F) is 8.886.
+Confusion coefficient variance is 0.140428.
+
+Safer:
+Calculations took 1390.19 miliseconds to run
+Name of the file: Safer.txt
+Input size M is 8
+Output size N is 8
+S-box is balanced.
+Nonlinearity is 82.
+Corelation immunity is 0.
+Absolute indicator is 256.
+Sum of square indicator is 711424.
+Algebraic degree is 7.
+Algebraic Term is 46.
+Algebraic immunity is 4.
+Transparency order is 7.735.
+Propagation characteristic is 0.
+Strict Avalanche Criterion is not satisfied.
+Number of fixed points is 3.
+Number of opposite fixed points is 4.
+Composite algebraic immunity is 4.
+Robustness to differential cryptanalysis is 0.500.
+Delta uniformity is 128.
+SNR (DPA) (F) is 6.311.
+Confusion coefficient variance is 0.340270.
